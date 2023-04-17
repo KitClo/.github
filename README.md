@@ -1,1 +1,1 @@
-# .github
+# README file for KitClo offiical page
